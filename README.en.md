@@ -37,12 +37,12 @@ degrade cleanly to an empty, typed OOS signal plus an explicit report warning.
 
 This repository provides factor-combination research methods and a code skeleton only.
 It places no orders, verifies no performance claims, and does not constitute investment
-advice. OOS ≠ live. Community Project — not officially validated or endorsed until
-maintainer review.
+advice. OOS ≠ live. Community Project; validate outputs against the cited data and local
+review requirements.
 
 ## 📜 License
 
-GPL-3.0. See [LICENSE](LICENSE).
+GPL-3.0-only. See [LICENSE](LICENSE).
 
 ## 🐼 PandaAI / QUANTSKILLS Community
 

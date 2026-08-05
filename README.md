@@ -89,11 +89,11 @@ skill-ml-factor-ensemble/
 ## ⚠️ 免责声明
 
 本仓库仅提供因子合成的研究方法与代码骨架，不下单、不验证任何收益声明、不构成任何投资建议。
-默认 Community Project，未经 QUANTSKILLS 维护者评审，不代表官方验证或背书。
+默认 Community Project；请结合引用的数据与本地审核要求复核输出。
 
 ## 📜 License
 
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
+GPL-3.0-only，详见 [LICENSE](LICENSE)。
 
 ## 🐼 PandaAI / QUANTSKILLS 社群
 
