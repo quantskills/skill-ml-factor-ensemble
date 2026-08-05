@@ -8,7 +8,7 @@ quantSkills:
   repository_url: https://github.com/quantskills/skill-ml-factor-ensemble
   project_type: skill
   collection: factor-combination
-  license: GPL-3.0
+  license: GPL-3.0-only
   category: tooling
   tags: [machine-learning, factor-combination, walk-forward, purged-cv, embargo, lightgbm, leakage]
   platforms: [claude-code, codex, openclaw]
@@ -80,7 +80,7 @@ Produce:
 - Tree models can overfit small panels; prefer linear models when factors are few or noisy.
 - Purge/embargo must match the true label horizon H — a mismatch silently reintroduces leakage.
 - This skill does not place orders and is **not investment advice**.
-- Community Project — not officially validated or endorsed until maintainer review.
+- Community Project; validate outputs against the cited data and local review requirements.
 
 ## ✅ Quality Bar
 
