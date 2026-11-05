@@ -2,4 +2,4 @@ pandas
 numpy
 scikit-learn
 lightgbm         # 可选；仅 model=lightgbm 时需要
-panda-data==0.0.9
+panda-data==1.0.6
